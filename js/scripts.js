@@ -54,3 +54,20 @@ alert(divide(number1, number2));
 // var BM=getinfo();
 //
 // alert("your BMI " + BM);
+
+// var fahrenheit=function(celsius)
+// {
+// var x=((celsius*1.8)+32);
+// return x;
+// };
+// var getinfo=function()
+// {
+// var celsius=prompt("Enter temp in celsius");
+// return celsius;
+// };
+//
+// var celsius=getinfo();
+// var x=fahrenheit(celsius);
+//
+//
+// alert(celsius + " covernted to farenheit equals" + x + ".");
